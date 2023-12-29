@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.comment-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.comment, .reply {
+    margin-bottom: 10px;
+
+    list-style-type: none;
+}
+
+.reply-list {
+    margin-left: 20px;
+
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
+}
